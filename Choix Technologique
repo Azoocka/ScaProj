@@ -1,1 +1,6 @@
-Choix Technologique
+Choix Technologique:
+
+On utilisera le language python afin d'interagir avec la librairie Scapy.
+
+-Python 2.7
+-Librairie Scapy

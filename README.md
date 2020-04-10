@@ -36,6 +36,10 @@ Mes sources :
 
 ### Déroulement
 
+Dans un premier temps je me suis formé sur le site de CodeAcademy, j'ai passé quelques heures à découvrir le language et intégrer quelques notions d'algorithmes que je n'avais jamais vu auparavant.
+
+Par la suite j'ai commencé à  me renseigner sur la formation d'un 
+
 ### Explication Technique
 
 ### Voie d'amélioration

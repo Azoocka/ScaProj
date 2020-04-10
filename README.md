@@ -20,20 +20,18 @@ rapidement décidé de réaliser mon projet là dessus.
 
 On utilisera le language python afin d'interagir avec la librairie Scapy.
 
--Python 2.7
--Librairie Scapy
+* [Python 2.7](https://www.python.org/)
 
-Mes différents outils : 
+* [Scapy](https://scapy.net/)
 
-- IDE Visual Studio Code
-- Python 3.8 
-- l'outil Scapy installé sur une machine joignable sur mon réseau local. ( OS Debian 10.4)
-- Le site CodeAcademy afin de suivre le cours Python.
+* [IDE Visual Studio Code](https://code.visualstudio.com/)
+* [CodeAcademy](https://www.codecademy.com/learn)
+* l'outil Scapy installé sur une machine joignable sur mon réseau local. ( OS Debian 10.4)
 
 Mes sources : 
-- Pas mal de Vidéo Tuto sur Youtube
-- http://www.secdev.org/conf/scapy_csw05.pdf ( un cours Scapy)
-- https://scapy.net/ - Le site de l'outil Scapy
+* Des vidéos YouTube
+* http://www.secdev.org/conf/scapy_csw05.pdf ( un cours Scapy)
+* https://scapy.net/ - Le site de l'outil Scapy
 
 
 ### Déroulement

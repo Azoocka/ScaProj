@@ -38,8 +38,16 @@ Mes sources :
 
 Dans un premier temps je me suis formé sur le site de CodeAcademy, j'ai passé quelques heures à découvrir le language et intégrer quelques notions d'algorithmes que je n'avais jamais vu auparavant.
 
-Par la suite j'ai commencé à  me renseigner sur la formation d'un 
+Par la suite j'ai commencé à  me renseigner sur la formation d'un menu à choix multiple , pour moi il était important que l'utilisateur puisse faire le choix entre différentes attaques.
 
-### Explication Technique
+Après quelques recherches j'ai défini le fait d'avoir unquement 2 attaques possibles:
+* CAM_Overflow
+* ARP_Spoofing
+
+La première consiste à  envoyer un maximum de paquet en modifiant l'adresse source ainsi que l'adresse mac du paquet afin de saturer la table CAM d'un switch de niveau 2. Une fois cette table saturée , l'attaquant est en capacité d'écouter tout ce qui passe par le switch qui se comporte désormais comme un hub.
+
+La seconde attaque consiste à rediriger le traffic de la machine cible vers le pc de l'attaquant afin qu'il puisse écouter les différentes requêtes de la victime. On appelle alors cela du MiTM (ou Man in the middle )
 
 ### Voie d'amélioration
+Afin d'améliorer mon code , je souhaiterais dans les jours a venir réaliser une interface graphique afin de rendre mon programme plus user-friendly.
+Dans un second temps , je pense qu'il serais possible d'ajouter des attaques un peu plus complexe à mon outil.

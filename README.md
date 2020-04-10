@@ -8,4 +8,8 @@
 
 ### Choix Technologique
 
+### Déroulement
+
 ### Explication Technique
+
+### Voie d'amélioration
